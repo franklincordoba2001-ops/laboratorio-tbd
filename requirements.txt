@@ -1,0 +1,4 @@
+cat << 'EOF' > requirements.txt
+pytest==8.3.3
+ruff==0.8.1
+EOF
